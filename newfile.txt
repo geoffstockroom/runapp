@@ -1,3 +1,2 @@
 Ths is a new file.
-This is edit one.
-This is edit two.
+This is a newer edit to the new file.
