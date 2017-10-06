@@ -1,0 +1,4 @@
+this is my first file using echo command
+Here we are talking about diff concept
+This is an edit to the file to illustrate diff
+
